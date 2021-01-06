@@ -1,5 +1,5 @@
 *.md linguist-language=C#
-*.js linguist-language=java
-*.css linguist-language=java
-*.html linguist-language=java
-*.htm linguist-language=java
+*.js linguist-language=C#
+*.css linguist-language=C#
+*.html linguist-language=C#
+*.htm linguist-language=C#
