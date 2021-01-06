@@ -1,0 +1,14 @@
+F:\Code\VS2019\words_winform\words_winform\bin\Debug\words_winform.exe.config
+F:\Code\VS2019\words_winform\words_winform\bin\Debug\words_winform.exe
+F:\Code\VS2019\words_winform\words_winform\bin\Debug\words_winform.pdb
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.csprojAssemblyReference.cache
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.Properties.Resources.resources
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.csproj.GenerateResource.cache
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.csproj.CoreCompileInputs.cache
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.exe
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.pdb
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.MainForm.resources
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.NewForm.resources
+F:\Code\VS2019\words_winform\words_winform\bin\Debug\Newtonsoft.Json.dll
+F:\Code\VS2019\words_winform\words_winform\bin\Debug\Newtonsoft.Json.xml
+F:\Code\VS2019\words_winform\words_winform\obj\Debug\words_winform.csproj.CopyComplete

@@ -1,0 +1,422 @@
+{
+  "wordUnits": [
+    {
+      "unit": "1",
+      "words": [
+        {
+          "English": "state",
+          "Chinese": "n.状态,情况;洲v.陈述;说明;规定"
+        },
+        {
+          "English": "statue",
+          "Chinese": "n.法令;法规"
+        },
+        {
+          "English": "manifestation",
+          "Chinese": "n.显示,表现;示威运动"
+        },
+        {
+          "English": "statistic",
+          "Chinese": "n.统计数值adj:统计的,统计学的"
+        },
+        {
+          "English": "statistical",
+          "Chinese": "adj:统计的,统计学的"
+        },
+        {
+          "English": "stationary",
+          "Chinese": "固定的;静止的，不动的"
+        },
+        {
+          "English": "statement",
+          "Chinese": "陈述，声明;表现，表达"
+        },
+        {
+          "English": "understatement",
+          "Chinese": "n保守陈述;不充分的陈述;轻描淡写"
+        },
+        {
+          "English": "overstate",
+          "Chinese": "v夸张，夸大地叙述"
+        },
+        {
+          "English": "statesman",
+          "Chinese": "n.政治家"
+        },
+        {
+          "English": "estate",
+          "Chinese": "n.房地产;身份;财产"
+        },
+        {
+          "English": "devastate",
+          "Chinese": "v毁灭，毁坏"
+        },
+        {
+          "English": "devastating",
+          "Chinese": "毁灭性的;极具破坏力的"
+        },
+        {
+          "English": "workstation",
+          "Chinese": " n.工作"
+        },
+        {
+          "English": "status",
+          "Chinese": "n.地位;情形;状况;重要身份"
+        },
+        {
+          "English": "assert",
+          "Chinese": "V坚称;断言;表明"
+        },
+        {
+          "English": "affirm",
+          "Chinese": "V断言;肯定;证实"
+        },
+        {
+          "English": "public",
+          "Chinese": "公众的;公共的;公开的n.公众，民众"
+        },
+        {
+          "English": "publication",
+          "Chinese": "出版;发行;出版物;发行物;公布;发布"
+        },
+        {
+          "English": "republican",
+          "Chinese": "共和国的;共和政体的"
+        },
+        {
+          "English": "publicity",
+          "Chinese": "n.宣传活动;宣传，推广;关注"
+        },
+        {
+          "English": "publicized",
+          "Chinese": "公开的"
+        },
+        {
+          "English": "publicly",
+          "Chinese": "公共地;公开地;公众地"
+        },
+        {
+          "English": "in public",
+          "Chinese": "公开地，当众"
+        },
+        {
+          "English": "mass",
+          "Chinese": "n.民众;大量adj.大量的;大规模的;大批的"
+        },
+        {
+          "English": "civil",
+          "Chinese": "公民的;民事的"
+        },
+        {
+          "English": "law",
+          "Chinese": "法律;法令;法规;规律;定律"
+        },
+        {
+          "English": "claw",
+          "Chinese": "爪;螯;钳;爪形器具v用爪抓(或挖)"
+        },
+        {
+          "English": "lawful",
+          "Chinese": "合法的;法定的;法律许可的"
+        },
+        {
+          "English": "lawsuit",
+          "Chinese": "n.诉讼;诉讼案件"
+        },
+        {
+          "English": "flaw",
+          "Chinese": "n.瑕疵;裂纹;缺点v.使破裂;使有缺陷"
+        },
+        {
+          "English": "lawyer",
+          "Chinese": "n.律师;法学家"
+        },
+        {
+          "English": "legislation",
+          "Chinese": "n.法律;法规"
+        },
+        {
+          "English": "mean",
+          "Chinese": "V.意味着，即是;意指，意思是说;打算，意欲;意义重大adj.吝啬的;刻薄的;破旧的;平均的n.平均值，平均数"
+        },
+        {
+          "English": "meaning",
+          "Chinese": "意义，含义"
+        },
+        {
+          "English": "well-meaning",
+          "Chinese": "善意的;好心的"
+        },
+        {
+          "English": "meaningless",
+          "Chinese": "没有意义的不重要的;无价值的"
+        },
+        {
+          "English": "meaningfully",
+          "Chinese": "有意图地;有意义地;重要地"
+        },
+        {
+          "English": "means",
+          "Chinese": "n.方法;手段"
+        },
+        {
+          "English": "meanwhile",
+          "Chinese": "同时;其间"
+        },
+        {
+          "English": "by means of",
+          "Chinese": "用;依靠"
+        },
+        {
+          "English": "by no means",
+          "Chinese": "绝不;一点也不"
+        },
+        {
+          "English": "indicate",
+          "Chinese": "表明;暗示;象征;反映"
+        },
+        {
+          "English": "implication",
+          "Chinese": "n.可能引发的后果(或影响);暗示;含意"
+        },
+        {
+          "English": "influence",
+          "Chinese": "n.影响;感化;势力，权势V影响;感化"
+        },
+        {
+          "English": "influential",
+          "Chinese": "adj.有影响力的;有势力的n.有影响的人;有势力的人"
+        },
+        {
+          "English": "impact",
+          "Chinese": "n.碰撞;撞击;影响"
+        },
+        {
+          "English": "live",
+          "Chinese": "活的;有生命的;现场演出的 v居住;生活;生存;以……为生;留存;铭记"
+        },
+        {
+          "English": "alive",
+          "Chinese": "活着的;有生气的，活跃的"
+        },
+        {
+          "English": "deliver",
+          "Chinese": "v发表(讲话)：递送;接生(婴儿)"
+        },
+        {
+          "English": "delivery",
+          "Chinese": "n.分娩;投递;讲话方式"
+        },
+        {
+          "English": "outlive",
+          "Chinese": "比…活得长;比…经久"
+        },
+        {
+          "English": "liveliness",
+          "Chinese": "n.活力"
+        },
+        {
+          "English": "livelihood",
+          "Chinese": "n.生计;生活"
+        },
+        {
+          "English": "live off",
+          "Chinese": "依赖……生活，依赖"
+        },
+        {
+          "English": "dwell",
+          "Chinese": "v居住于;存在于"
+        },
+        {
+          "English": "reside",
+          "Chinese": "v定居于;属于"
+        },
+        {
+          "English": "survive",
+          "Chinese": "V.幸存;比…活得长"
+        },
+        {
+          "English": "survival",
+          "Chinese": "n.生存;幸存"
+        },
+        {
+          "English": "inhabit",
+          "Chinese": "v居住于"
+        },
+        {
+          "English": "settle",
+          "Chinese": "v使定居"
+        },
+        {
+          "English": "federal",
+          "Chinese": "联邦的"
+        },
+        {
+          "English": "federation",
+          "Chinese": "n.联邦制国家;联邦;(社团或组织的)同盟;联盟;联合会"
+        },
+        {
+          "English": "FBI",
+          "Chinese": "联邦调查局( Federal Bureau of Investigation on)"
+        },
+        {
+          "English": "CIA",
+          "Chinese": "中央情报局( Central Intelligence Agency)"
+        },
+        {
+          "English": "large",
+          "Chinese": "大的;大规模的;大量的"
+        },
+        {
+          "English": "largely",
+          "Chinese": "主要地;大体上地;大量地"
+        },
+        {
+          "English": "enlarge",
+          "Chinese": "v.扩大;放大;扩充"
+        },
+        {
+          "English": "at large",
+          "Chinese": "一般;全体地;普遍地"
+        },
+        {
+          "English": "bulky",
+          "Chinese": "庞大的;体积大的"
+        },
+        {
+          "English": "outsize",
+          "Chinese": "特大的"
+        },
+        {
+          "English": "huge",
+          "Chinese": "庞大的"
+        },
+        {
+          "English": "mark",
+          "Chinese": "v.做标记：指出;标明;标签n.痕迹;斑点;污点;记号;符号;考试等分数"
+        },
+        {
+          "English": "market",
+          "Chinese": "n.市场;行情"
+        },
+        {
+          "English": "marketplace",
+          "Chinese": "n.市集;商场;市场"
+        },
+        {
+          "English": "marked",
+          "Chinese": "adj.显著的，明显的;有记号的"
+        },
+        {
+          "English": "marketer",
+          "Chinese": "n.商人;市场营销人员"
+        },
+        {
+          "English": "remark",
+          "Chinese": "V评论;谈到n.评论;话语"
+        },
+        {
+          "English": "remarkable",
+          "Chinese": "adj.不同寻常的;非凡的;值得注意的"
+        },
+        {
+          "English": "landmark",
+          "Chinese": "n.地标;里程碑;转折点adj.有重大意义或影响的"
+        },
+        {
+          "English": "blot",
+          "Chinese": "n.污点"
+        },
+        {
+          "English": "spot",
+          "Chinese": "n.点;斑点"
+        },
+        {
+          "English": "stain",
+          "Chinese": "n.污迹;污渍,V玷污;污染"
+        },
+        {
+          "English": "symbol",
+          "Chinese": "n.象征;标志"
+        },
+        {
+          "English": "system",
+          "Chinese": "n.系统;体制"
+        },
+        {
+          "English": "systematic",
+          "Chinese": "adj.有系统的;系统化的"
+        },
+        {
+          "English": "systematically",
+          "Chinese": "adv.系统地;有条理地"
+        },
+        {
+          "English": "regime",
+          "Chinese": "n.政权;政体;管理制度;组织方法;养生法"
+        },
+        {
+          "English": "organization",
+          "Chinese": "n.组织;机构;团体"
+        },
+        {
+          "English": "structure",
+          "Chinese": "n.结构;构造;组织"
+        },
+        {
+          "English": "stress",
+          "Chinese": "V强调;着重n.压力;强调;重点;着重;重音"
+        },
+        {
+          "English": "stressed-out",
+          "Chinese": "因心理紧张而被压垮的"
+        },
+        {
+          "English": "highlight",
+          "Chinese": "V.强调;突出"
+        },
+        {
+          "English": "emphasize",
+          "Chinese": "V.强调"
+        },
+        {
+          "English": "strain",
+          "Chinese": "v过度使用，使不堪承受;使紧张;拉伤;扭伤n.压力;负担;重负"
+        }
+      ]
+    },
+    {
+      "unit": "2",
+      "words": [
+        {
+          "English": "peer",
+          "Chinese": "n.同龄人;同等地位的人v.仔细看;费力地看"
+        },
+        {
+          "English": "gaze at",
+          "Chinese": "凝视,注释"
+        },
+        {
+          "English": "stare at",
+          "Chinese": "盯;凝视"
+        },
+        {
+          "English": "glare at",
+          "Chinese": "长久地怒视;瞪着"
+        },
+        {
+          "English": "contemporary",
+          "Chinese": "n.同代人"
+        },
+        {
+          "English": "issue",
+          "Chinese": "v.发行,发表;发布;发,发放n:问题,争端;报刊的期号,版次"
+        },
+        {
+          "English": "tissue",
+          "Chinese": "n.动植物的组织;薄的纱织品;面巾纸"
+        }
+      ]
+    }
+  ]
+}
